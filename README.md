@@ -34,6 +34,10 @@ You can write a filter string, read more [here](http://msdn.microsoft.com/en-us/
 
 Rename the gem to shipstation-rb.
 
+## 0.0.6 Features
+
+Removed gem dependency versions.
+
 
 ## Installation
 
